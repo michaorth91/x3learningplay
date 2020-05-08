@@ -1,0 +1,17 @@
+#title {
+  background-color: #ff4c68;
+}
+
+#features {
+  background-color: #ff3c24;
+}
+
+h1 {
+   font-family: 'Montserrat-black', sans-serif;
+   font-size: 3rem;
+   line-height: 1.5;
+}
+
+.images/nachhilfe.jpeg{
+  width: 120px;
+}
